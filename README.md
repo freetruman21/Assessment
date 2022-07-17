@@ -49,8 +49,8 @@ priceAfterCoupon 0.8704782549790001
 metabriteCampaignId 0.883078173689202
 
 3. I found quite significant amount of duplicate data in the users and receipts datasets.
-# of Duplicated data in users dataset: 283
-# of Duplicated data in receipts dataset: 6262
+Number of Duplicated data in users dataset: 283
+Number of Duplicated data in receipts dataset: 6262
 
 
 Fourth: Communicate with Stakeholders
